@@ -13,11 +13,17 @@ img {
     text-decoration: none;
 }
 
-.logo(
-    
-)
+.logo{
+    width: 150px;
+}
+
+a[href="#tienda"]{
+    color: rgba(214, 88, 88, 0.397);
+}
+
 h1 {
     width: 400px;
     height: 100px;
     padding: 5px 10px;
+    color: rgb(238, 10, 10);
 }
