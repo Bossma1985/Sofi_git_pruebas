@@ -1,0 +1,23 @@
+img {
+    width: 300px;
+}
+
+.hero_boton{
+    background: rgb(37, 37, 37);
+    margin: 100;
+    padding: 10px;
+    width: 30px;
+    color: white;
+    border-radius: 15px;
+    border: 2px solid gold;
+    text-decoration: none;
+}
+
+.logo(
+    
+)
+h1 {
+    width: 400px;
+    height: 100px;
+    padding: 5px 10px;
+}
