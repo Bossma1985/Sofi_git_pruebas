@@ -1,5 +1,6 @@
 img {
     width: 300px;
+    margin-top: 3rem;
 }
 
 .hero_boton{
@@ -13,12 +14,18 @@ img {
     text-decoration: none;
 }
 
+body{
+    background-color: black;
+}
+    
+
+
 .logo{
     width: 150px;
 }
 
 a[href="#tienda"]{
-    color: rgba(136, 13, 74, 0.397);
+    color: rgba(255, 255, 255, 0.397);
 }
 
 h1 {
